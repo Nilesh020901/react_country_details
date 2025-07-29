@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "countryName": "Japan",
+        "capital": "Tokyo",
+        "population": 125800000,
+        "interestingFact": "Japan consists of over 6,800 islands."
+    },
+    {
+        "id": 2,
+        "countryName": "Canada",
+        "capital": "Ottawa",
+        "population": 39000000,
+        "interestingFact": "Canada has the longest coastline in the world."
+    },
+    {
+        "id": 3,
+        "countryName": "Brazil",
+        "capital": "Brasília",
+        "population": 214000000,
+        "interestingFact": "Brazil is home to the Amazon Rainforest, the largest rainforest in the world."
+    },
+    {
+        "id": 4,
+        "countryName": "Australia",
+        "capital": "Canberra",
+        "population": 26000000,
+        "interestingFact": "Australia is the only country that is also a continent."
+    },
+    {
+        "id": 5,
+        "countryName": "Egypt",
+        "capital": "Cairo",
+        "population": 110000000,
+        "interestingFact": "Egypt is home to the Pyramids of Giza and the ancient civilization along the Nile."
+    },
+    {
+        "id": 6,
+        "countryName": "Germany",
+        "capital": "Berlin",
+        "population": 83000000,
+        "interestingFact": "Germany is known for its engineering and is the birthplace of the automobile."
+    },
+    {
+        "id": 7,
+        "countryName": "India",
+        "capital": "New Delhi",
+        "population": 1410000000,
+        "interestingFact": "India is the world’s most populous democracy and home to the Taj Mahal."
+    },
+    {
+        "id": 8,
+        "countryName": "New Zealand",
+        "capital": "Wellington",
+        "population": 5100000,
+        "interestingFact": "New Zealand was the first country to grant women the right to vote in 1893."
+    }
+]
